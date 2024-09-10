@@ -1,4 +1,4 @@
-const users = require('../Node-09-Sep/users.json')
+const users = require('../Node_09Sep/users.json')
 function getUser(req,res){
     try{
         res.json(users)
